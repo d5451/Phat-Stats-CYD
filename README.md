@@ -1,3 +1,10 @@
+**THIS ONLY WORKS WITH THE CYD IF YOU DON'T CHANGE THE MICROCONTROLLER IN THE CONFIGURATION**
+
+This is essentially just a vibe coded fork of Phat-Stats for the CYD. (This has not been tested on the ESP32-2432S028R, I've only flashed it onto an ESP32-2432S028.)
+This is also specifically made to be used vertically, so you might have some issues if you use it horizontally.
+
+
+
 
 
 Phat-Stats is an open-source Arduino project that transforms a TFT display into a real-time PC hardware performance monitor. Developed by Rupert Hirst and Colin Conway, it serves as a larger, color-enhanced counterpart to the Gnat-Stats OLED monitor, offering a visually rich interface for tracking system metrics.([GitHub][1], [GitHub][2])
